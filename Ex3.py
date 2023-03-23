@@ -1,3 +1,4 @@
-x="something"
-y="is better than nothing"
-print (x, y, sep=" ")
+y=input("Write the text:")
+z="Something"
+x=f"{z} {y}"
+print(x)
